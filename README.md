@@ -1,1 +1,1 @@
-[CV](https://skepyan.github.io/rsschool-cv/cv)
+[cv](https://skepyan.github.io/rsschool-cv/cv)
