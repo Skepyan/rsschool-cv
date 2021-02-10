@@ -1,2 +1,2 @@
-[cv](https://skepyan.github.io/rsschool-cv/cv)
-[cv_html](https://skepyan.github.io/rsschool-cv/index.html)
+### [Markdown CV](https://skepyan.github.io/rsschool-cv/cv)
+### [HTML & CSS CV](https://skepyan.github.io/rsschool-cv/)
