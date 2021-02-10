@@ -17,7 +17,20 @@
 - JavaScript;
 
 ## CODE EXAMPLE:
-
+```
+exports.avg = function avg (array) {
+  let result = 0;
+  if (Array.isArray(array) && array.length !== 0){
+  result = array.reduce (function (acc, currentValue){
+    return acc + currentValue;
+  }, 0);
+  result = result / array.length;
+  return result;
+}else{
+  return result;
+};
+  };
+ ```
  ## EDUCATION :
  **BELARUS STATE ECONOMIC UNIVERSITY, Faculty of Law in 2016**
  - HTMLAcademy: HTML & CSS basics;
