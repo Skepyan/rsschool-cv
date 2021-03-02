@@ -6,17 +6,20 @@ body{
     margin: 0px auto;
 }
 .header{
-    max-width: 1190px;
+    
     margin: 0px auto;
     padding: 50px 0px 10px;
-    padding-bottom: 0px;
-    
+    padding-bottom: 0;
+    background-color: rgba(45, 153, 153, 0.61);
 }
 
 .header_inner{
+    max-width: 1190px;
     display: flex;
     align-items: center;
-    flex-wrap: wrap;
+   justify-content: center;
+   margin: 0px auto;
+   
     
 }
 .header_avatar{
